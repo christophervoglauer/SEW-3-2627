@@ -1,0 +1,7 @@
+C:\Users\ChristopherVoglauer\Desktop\schule\Sew\Neuer Ordner\Fantesy_world\Fantesy_world\bin\Debug\Fantesy_world.exe.config
+C:\Users\ChristopherVoglauer\Desktop\schule\Sew\Neuer Ordner\Fantesy_world\Fantesy_world\bin\Debug\Fantesy_world.exe
+C:\Users\ChristopherVoglauer\Desktop\schule\Sew\Neuer Ordner\Fantesy_world\Fantesy_world\bin\Debug\Fantesy_world.pdb
+C:\Users\ChristopherVoglauer\Desktop\schule\Sew\Neuer Ordner\Fantesy_world\Fantesy_world\obj\Debug\Fantesy_world.csproj.AssemblyReference.cache
+C:\Users\ChristopherVoglauer\Desktop\schule\Sew\Neuer Ordner\Fantesy_world\Fantesy_world\obj\Debug\Fantesy_world.csproj.CoreCompileInputs.cache
+C:\Users\ChristopherVoglauer\Desktop\schule\Sew\Neuer Ordner\Fantesy_world\Fantesy_world\obj\Debug\Fantesy_world.exe
+C:\Users\ChristopherVoglauer\Desktop\schule\Sew\Neuer Ordner\Fantesy_world\Fantesy_world\obj\Debug\Fantesy_world.pdb
